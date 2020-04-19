@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "731956450833",
+    "firebase_url": "https://gripdetection.firebaseio.com",
+    "project_id": "gripdetection",
+    "storage_bucket": "gripdetection.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731956450833:android:f41a3f5c94c5d94a41c3b0",
+        "android_client_info": {
+          "package_name": "com.example.grip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731956450833-gjjhvtf36j319f7rnlkck9715d8lifq0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.grip",
+            "certificate_hash": "dc47116fcb91f0f5784050be8b438efebe7a4062"
+          }
+        },
+        {
+          "client_id": "731956450833-s114ev54ga67tf6o8c4ufn4rl8fq4cql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcUBsI4vN1ElUPNV7BMCv8r22s_0xK4o4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731956450833-s114ev54ga67tf6o8c4ufn4rl8fq4cql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
